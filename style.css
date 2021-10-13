@@ -1,9 +1,10 @@
 body {
-	background-color: hotpink;
+	background-color: yellow;
 }
 
 h1 {
 	color: blueviolet;
+	text-align: center;
 }
 
 a {
@@ -12,4 +13,8 @@ a {
 
 img {
 	max-width: 600px;
+}
+
+p {
+	color: green;
 }
